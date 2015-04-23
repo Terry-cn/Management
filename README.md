@@ -1,2 +1,2 @@
-# Management
-My project manage ment documents
+# 项目管理文件说明
+这里面都是一些我的项目管理方面的文件，包括代码规范等。
